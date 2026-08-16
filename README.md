@@ -9,3 +9,5 @@
 ```diff
 - (ada bug kameranya patah2 bjir)
 + Udah di FIX
+
+- Ada Bug di v0.1.2, Objek Dari Blender tembus/tidak memiliki Collider dan tidak bisa diinteraksi
