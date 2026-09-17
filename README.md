@@ -1,5 +1,6 @@
 # My-First-Prototype-game
-- ini Game hasil dari saya mengasah skill game development, jadi JANGAN NGAREP GAME NYA BAGUS WKWK karena isi nya cuman objek mati dan objek yang bisa di interaksi, pas main jangan coba ke jatuhin diri ke void/batas map karena belum ada sistem hidup kembali. 
+- ini Game hasil dari saya mengasah skill game development, jadi JANGAN NGAREP GAME NYA BAGUS WKWK karena isi nya cuman objek mati dan objek yang bisa di interaksi, pas main jangan coba ke jatuhin diri ke void/batas map karena belum ada sistem hidup kembali.
+- Code C# tidak di upload disini!/code di repo yang lain(Private).
 
 # Info
 **v0.1.2 bisa dimainin di Linux/Available for Linux**
@@ -11,3 +12,5 @@
 + Udah di FIX
 
 - Ada Bug di v0.1.2, Objek Dari Blender tembus/tidak memiliki Collider dan tidak bisa diinteraksi
+
+- Ada bug Pause bisa diakses saat membuka panel Setting yang seharusnya tida bisa.
